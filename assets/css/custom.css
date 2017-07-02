@@ -1,0 +1,13 @@
+.error{
+    display: none;
+    position: fixed;
+    top: 0;
+    margin: auto auto;
+    text-align: center;
+    left: 45%;
+    background: #ccc;
+    color: red;
+    box-shadow: 7px 4px #ececec;
+    border-radius: 16px;
+    padding: 20px;
+}
